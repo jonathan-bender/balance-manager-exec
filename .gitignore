@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/BalanceManager.DAL/bin/Debug/netstandard2.0
+/BalanceManager.DAL/obj
+/BalanceManager/bin
+/BalanceManager/obj/Debug

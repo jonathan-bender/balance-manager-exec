@@ -4,6 +4,6 @@ namespace BalanceManager.DAL
 {
     public interface IBalancesContext
     {
-        IEnumerable<BalanceInfo> Balances { get; }
+        IList<BalanceInfo> Balances { get; }
     }
 }

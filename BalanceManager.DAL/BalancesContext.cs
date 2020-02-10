@@ -7,7 +7,7 @@ namespace BalanceManager.DAL
     {
         #region Do not change
 
-        public IEnumerable<BalanceInfo> Balances => _balances;
+        public IList<BalanceInfo> Balances => _balances;
         private IList<BalanceInfo> _balances;
 
         public BalancesContext()

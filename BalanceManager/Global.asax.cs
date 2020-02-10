@@ -11,6 +11,7 @@ namespace BalanceManager
             {
                 SwaggerConfig.Register(httpConfiguration);
                 WebApiConfig.Register(httpConfiguration);
+                UnityConfig.Register(httpConfiguration);
             });
         }
     }
