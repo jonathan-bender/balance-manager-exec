@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceManager", "BalanceManager\BalanceManager.csproj", "{EFF676F2-F04D-4F55-B526-DEEAC7263109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalanceManager.DAL", "BalanceManager.DAL\BalanceManager.DAL.csproj", "{5EF4A394-AC82-440E-BCE7-9CD3E22CE6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFF676F2-F04D-4F55-B526-DEEAC7263109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF676F2-F04D-4F55-B526-DEEAC7263109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF676F2-F04D-4F55-B526-DEEAC7263109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF676F2-F04D-4F55-B526-DEEAC7263109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EF4A394-AC82-440E-BCE7-9CD3E22CE6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF4A394-AC82-440E-BCE7-9CD3E22CE6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF4A394-AC82-440E-BCE7-9CD3E22CE6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF4A394-AC82-440E-BCE7-9CD3E22CE6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A104BF6-9BF9-42E4-8A9A-76E8FF470924}
+	EndGlobalSection
+EndGlobal

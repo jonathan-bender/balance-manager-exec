@@ -1,0 +1,8 @@
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\bin\Debug\netstandard2.0\BalanceManager.DAL.deps.json
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\bin\Debug\netstandard2.0\BalanceManager.DAL.dll
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\bin\Debug\netstandard2.0\BalanceManager.DAL.pdb
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\obj\Debug\netstandard2.0\BalanceManager.DAL.csprojAssemblyReference.cache
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\obj\Debug\netstandard2.0\BalanceManager.DAL.AssemblyInfoInputs.cache
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\obj\Debug\netstandard2.0\BalanceManager.DAL.AssemblyInfo.cs
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\obj\Debug\netstandard2.0\BalanceManager.DAL.dll
+C:\Users\sagile\source\repos\BalanceManagerExercise\BalanceManager.DAL\obj\Debug\netstandard2.0\BalanceManager.DAL.pdb
